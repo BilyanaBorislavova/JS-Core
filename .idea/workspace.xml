@@ -1,0 +1,1056 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4d56bb12-cdf3-4443-b424-cc6e959b8478" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file leaf-file-name="04. F1 Championship 100-100.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/JS Fundamentals/Exam Preps/04. F1 Championship 100-100.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="385">
+              <caret line="26" column="35" lean-forward="false" selection-start-line="26" selection-start-column="35" selection-end-line="26" selection-end-column="35" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="app.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/JS Apps/EXAM/script/app.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-10217">
+              <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/JS Apps/EXAM/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="413">
+              <caret line="22" column="24" lean-forward="true" selection-start-line="22" selection-start-column="24" selection-end-line="22" selection-end-column="24" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="02. Show More.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/JS Advanced/Document Object Model - Lab/02. Show More.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="03. Collect List Items.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/JS Advanced/Document Object Model - Lab/03. Collect List Items.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="04. Colorize Table.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/JS Advanced/Document Object Model - Lab/04. Colorize Table.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="05. Countdown.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/JS Advanced/Document Object Model - Lab/05. Countdown.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="147">
+              <caret line="7" column="36" lean-forward="true" selection-start-line="7" selection-start-column="36" selection-end-line="7" selection-end-column="36" />
+              <folding>
+                <element signature="n#style#0;n#input#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="06. Extract Paranthesis.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/JS Advanced/Document Object Model - Lab/06. Extract Paranthesis.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="07. Sum Table.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/JS Advanced/Document Object Model - Lab/07. Sum Table.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="02. Gladiator Inventory.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/JS Fundamentals/Exam Preps/02. Gladiator Inventory.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="147">
+              <caret line="7" column="18" lean-forward="true" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="package_json" />
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>href</find>
+      <find>my</find>
+      <find>my car</find>
+      <find>edit car</find>
+      <find>login</find>
+      <find>create</find>
+      <find>removeCar</find>
+      <find>myCar</find>
+      <find>details</find>
+      <find>car-listings</find>
+      <find>editListing</find>
+      <find>editLis</find>
+      <find>handle</find>
+      <find>handleError</find>
+      <find>remove</find>
+      <find>listCa</find>
+      <find>Payment De</find>
+      <find>deleteMeme</find>
+      <find>register</find>
+      <find>deleteUser</find>
+      <find>logout</find>
+      <find>creator</find>
+      <find>user</find>
+      <find>userInfo</find>
+      <find>edit</find>
+      <find>delete</find>
+      <find>show</find>
+      <find>profile</find>
+      <find>appendMyMemes</find>
+      <find>showProfile</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/contactBook/js/kinvey.controller.js" />
+        <option value="$PROJECT_DIR$/JS Apps/Team Manager - Skeleton/scripts/models/auth.js" />
+        <option value="$PROJECT_DIR$/JS Apps/Team Manager - Skeleton/scripts/models/teamsService.js" />
+        <option value="$PROJECT_DIR$/JS Apps/Team Manager - Skeleton/templates/catalog/teamCatalog.hbs" />
+        <option value="$PROJECT_DIR$/JS Apps/Team Manager - Skeleton/scripts/app.js" />
+        <option value="$PROJECT_DIR$/JS Apps/Point of Sale/index.html" />
+        <option value="$PROJECT_DIR$/JS Apps/Point of Sale/app.js" />
+        <option value="$PROJECT_DIR$/JS Apps/SeenIt/index.html" />
+        <option value="$PROJECT_DIR$/JS Apps/SeenIt/app.js" />
+        <option value="$PROJECT_DIR$/JS Apps/Airline Administration/index.html" />
+        <option value="$PROJECT_DIR$/JS Apps/Prodavachnik - Skeleton/Prodavachnik - Skeleton/scripts/prodavachnik.js" />
+        <option value="$PROJECT_DIR$/JS Apps/Airline Administration/scripts/app.js" />
+        <option value="$PROJECT_DIR$/JS Apps/EXAM/style/my-listings.css" />
+        <option value="$PROJECT_DIR$/JS Apps/EXAM/script/app.js" />
+        <option value="$PROJECT_DIR$/JS Advanced/Retake/01.html" />
+        <option value="$PROJECT_DIR$/JS Advanced/Retake/makeReservation.js" />
+        <option value="$PROJECT_DIR$/JS Advanced/Retake/04.html" />
+        <option value="$PROJECT_DIR$/JS Advanced/Retake/solution.js" />
+        <option value="$PROJECT_DIR$/JS Advanced/Retake/03.js" />
+        <option value="$PROJECT_DIR$/JS Advanced/Exam Preps/02.js" />
+        <option value="$PROJECT_DIR$/JS Advanced/Exam Preps/test/02. Holiday Package.js" />
+        <option value="$PROJECT_DIR$/JS Apps/01.Meme Lounge/index.html" />
+        <option value="$PROJECT_DIR$/JS Apps/01.Meme Lounge/script/app.js" />
+        <option value="$PROJECT_DIR$/JS Apps/EXAM/index.html" />
+        <option value="$PROJECT_DIR$/JS Apps/Memes/index.html" />
+        <option value="$PROJECT_DIR$/JS Apps/Memes/script/app.js" />
+        <option value="$PROJECT_DIR$/JS Apps/Templating - Exercise/test.html" />
+        <option value="$PROJECT_DIR$/JS Apps/Templating - Exercise/01. List Towns.html" />
+        <option value="$PROJECT_DIR$/JS Apps/Templating - Exercise/towns.js" />
+        <option value="$PROJECT_DIR$/JS Apps/Contact Book Skeleton/templates/contacts.hbs.js" />
+        <option value="$PROJECT_DIR$/JS Apps/Contact Book Skeleton/index.html" />
+        <option value="$PROJECT_DIR$/JS Apps/Contact Book Skeleton/templates/contacts.hbs" />
+        <option value="$PROJECT_DIR$/JS Apps/Contact Book Skeleton/app.js" />
+        <option value="$PROJECT_DIR$/JS Apps/Templating - Exercise/Handlebars-Exercises-Skeleton (1)/cats.html" />
+        <option value="$PROJECT_DIR$/JS Apps/Templating - Exercise/Handlebars-Exercises-Skeleton (1)/template/cat.hbs.js" />
+        <option value="$PROJECT_DIR$/JS Apps/Templating - Exercise/Handlebars-Exercises-Skeleton (1)/template/cat.hbs" />
+        <option value="$PROJECT_DIR$/JS Apps/Templating - Exercise/Handlebars-Exercises-Skeleton (1)/template.js" />
+        <option value="$PROJECT_DIR$/JS Fundamentals/Arrays and Matrices/1. Print an Array with a given Delimiter.js" />
+        <option value="$PROJECT_DIR$/JS Fundamentals/Arrays and Matrices/2. Print every N-th Element from an Array.js" />
+        <option value="$PROJECT_DIR$/JS Fundamentals/Arrays and Matrices/3. Add and Remove Elements.js" />
+        <option value="$PROJECT_DIR$/JS Fundamentals/Arrays and Matrices/4. Rotate Array.js" />
+        <option value="$PROJECT_DIR$/JS Fundamentals/Arrays and Matrices/5. Extract an Non-decreasing Subsequence from an Array.js" />
+        <option value="$PROJECT_DIR$/JS Fundamentals/Arrays and Matrices/7. Magic Matrices.js" />
+        <option value="$PROJECT_DIR$/JS Fundamentals/Arrays and Matrices/8. Spiral Matrix.js" />
+        <option value="$PROJECT_DIR$/JS Fundamentals/Arrays and Matrices/9. Diagonal Attack.js" />
+        <option value="$PROJECT_DIR$/JS Fundamentals/Arrays and Matrices/10. Orbit.js" />
+        <option value="$PROJECT_DIR$/JS Fundamentals/Exam Preps/blah.js" />
+        <option value="$PROJECT_DIR$/JS Fundamentals/Exam Preps/4.js" />
+        <option value="$PROJECT_DIR$/JS Fundamentals/Exam Preps/1.js" />
+        <option value="$PROJECT_DIR$/JS Fundamentals/JS Fundamentals Exam - 10 June 2018/01. Travel Plans.js" />
+        <option value="$PROJECT_DIR$/JS Fundamentals/Exam Preps/04. F1 Championship 100-100.js" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="JsbtTreeLayoutManager">
+    <layout place="tools.popupGrunt">
+      <scroll-view-position x="0" y="0" />
+    </layout>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/node_modules" />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="271" />
+    <option name="width" value="1400" />
+    <option name="height" value="990" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="JavaScript" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaScript" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaScript" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaScript" type="462c0819:PsiDirectoryNode" />
+              <item name="JS Apps" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaScript" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaScript" type="462c0819:PsiDirectoryNode" />
+              <item name="JS Apps" type="462c0819:PsiDirectoryNode" />
+              <item name="EXAM" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaScript" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaScript" type="462c0819:PsiDirectoryNode" />
+              <item name="JS Apps" type="462c0819:PsiDirectoryNode" />
+              <item name="EXAM" type="462c0819:PsiDirectoryNode" />
+              <item name="script" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="SearchEverywhereHistoryKey" value="termi&#9;ACTION&#9;ActivateTerminalToolWindow&#10;termin&#9;ACTION&#9;ActivateTerminalToolWindow&#10;terminal&#9;ACTION&#9;ActivateTerminalToolWindow&#10;term&#9;ACTION&#9;ActivateTerminalToolWindow" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="settings.editor.selected.configurable" value="JavaScript.Libraries" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs.mocha.mocha_node_package_dir" value="$USER_HOME$/AppData/Roaming/npm/node_modules/mocha" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Point of Sale" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Toch\Desktop\JavaScript\JS Apps\Templating - Exercise" />
+      <recent name="C:\Users\Toch\Desktop\JavaScript\JS Apps" />
+      <recent name="C:\Users\Toch\Desktop\JavaScript\JS Apps\01.Meme Lounge" />
+      <recent name="C:\Users\Toch\Desktop\JavaScript\JS Apps\EXAM" />
+      <recent name="C:\Users\Toch\Desktop\JavaScript" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Toch\Desktop\JavaScript\JS Apps\Memes" />
+      <recent name="C:\Users\Toch\Desktop\JavaScript\JS Apps\01.Meme Lounge" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Node.js.4.js">
+    <configuration name="10. Orbit.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="10. Orbit.js" working-dir="$PROJECT_DIR$/JS Fundamentals/Arrays and Matrices" />
+    <configuration name="1.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="$PROJECT_DIR$/JS Fundamentals/Exam Preps/01. Kompot.js" working-dir="$PROJECT_DIR$/JS Fundamentals/Exam Preps" />
+    <configuration name="4.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="$PROJECT_DIR$/JS Fundamentals/Exam Preps/04. F1 Championship 100-100.js" working-dir="$PROJECT_DIR$/JS Fundamentals/Exam Preps" />
+    <configuration name="blah.js (1)" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="$PROJECT_DIR$/JS Fundamentals/Exam Preps/03. DNAex 100-100.js" working-dir="$PROJECT_DIR$/JS Fundamentals/Exam Preps" />
+    <configuration name="blah.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="$PROJECT_DIR$/JS Fundamentals/Exam Preps/02. F1 Race 100-100.js" working-dir="$PROJECT_DIR$/JS Fundamentals/Exam Preps" />
+    <configuration name="Tests" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory>$PROJECT_DIR$</working-directory>
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui>bdd</ui>
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory>$PROJECT_DIR$/JS Advanced/Unit Testing with Mocha - Exercise/tests</test-directory>
+      <recursive>false</recursive>
+    </configuration>
+    <configuration name="UnitTests" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory>$PROJECT_DIR$</working-directory>
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui>bdd</ui>
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory>$PROJECT_DIR$/JS Advanced/Unit Testing with Mocha - Lab/test</test-directory>
+      <recursive>false</recursive>
+    </configuration>
+    <configuration name="fak2" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory>$PROJECT_DIR$</working-directory>
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui>bdd</ui>
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory>$PROJECT_DIR$/JS Advanced/Exam Preps/test</test-directory>
+      <recursive>false</recursive>
+    </configuration>
+    <list size="8">
+      <item index="0" class="java.lang.String" itemvalue="Mocha.fak2" />
+      <item index="1" class="java.lang.String" itemvalue="Mocha.UnitTests" />
+      <item index="2" class="java.lang.String" itemvalue="Mocha.Tests" />
+      <item index="3" class="java.lang.String" itemvalue="Node.js.10. Orbit.js" />
+      <item index="4" class="java.lang.String" itemvalue="Node.js.blah.js" />
+      <item index="5" class="java.lang.String" itemvalue="Node.js.blah.js (1)" />
+      <item index="6" class="java.lang.String" itemvalue="Node.js.4.js" />
+      <item index="7" class="java.lang.String" itemvalue="Node.js.1.js" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Node.js.4.js" />
+        <item index="1" class="java.lang.String" itemvalue="Node.js.1.js" />
+        <item index="2" class="java.lang.String" itemvalue="Node.js.blah.js (1)" />
+        <item index="3" class="java.lang.String" itemvalue="Node.js.blah.js" />
+        <item index="4" class="java.lang.String" itemvalue="Node.js.10. Orbit.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4d56bb12-cdf3-4443-b424-cc6e959b8478" name="Default" comment="" />
+      <created>1526839397734</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1526839397734</updated>
+      <workItem from="1526839398976" duration="7000" />
+      <workItem from="1526839483306" duration="4984000" />
+      <workItem from="1526845832224" duration="2992000" />
+      <workItem from="1526883333303" duration="2005000" />
+      <workItem from="1526909234267" duration="2308000" />
+      <workItem from="1526915620751" duration="3967000" />
+      <workItem from="1527002007764" duration="7826000" />
+      <workItem from="1527012488170" duration="5385000" />
+      <workItem from="1527019997526" duration="691000" />
+      <workItem from="1527081799898" duration="3736000" />
+      <workItem from="1527085733106" duration="4705000" />
+      <workItem from="1527090521492" duration="2864000" />
+      <workItem from="1527184477591" duration="6503000" />
+      <workItem from="1527192323835" duration="767000" />
+      <workItem from="1527250791088" duration="9098000" />
+      <workItem from="1527356105742" duration="5368000" />
+      <workItem from="1527420378402" duration="4398000" />
+      <workItem from="1527506477719" duration="6677000" />
+      <workItem from="1527525831799" duration="6355000" />
+      <workItem from="1527591581265" duration="5555000" />
+      <workItem from="1527606547116" duration="10646000" />
+      <workItem from="1527621679770" duration="612000" />
+      <workItem from="1527661775069" duration="126000" />
+      <workItem from="1527683314628" duration="2974000" />
+      <workItem from="1527693443970" duration="1318000" />
+      <workItem from="1527694964052" duration="216000" />
+      <workItem from="1527766932712" duration="10134000" />
+      <workItem from="1527783600727" duration="4597000" />
+      <workItem from="1527835826833" duration="246000" />
+      <workItem from="1527865554473" duration="5725000" />
+      <workItem from="1527878138918" duration="7055000" />
+      <workItem from="1527943480969" duration="20007000" />
+      <workItem from="1527970094664" duration="103000" />
+      <workItem from="1528003764332" duration="5616000" />
+      <workItem from="1528111416705" duration="1862000" />
+      <workItem from="1528113530979" duration="7674000" />
+      <workItem from="1528137219274" duration="4632000" />
+      <workItem from="1528142874671" duration="3796000" />
+      <workItem from="1528146758249" duration="674000" />
+      <workItem from="1528197723588" duration="6210000" />
+      <workItem from="1528211702658" duration="8531000" />
+      <workItem from="1528286833455" duration="16651000" />
+      <workItem from="1528314141890" duration="646000" />
+      <workItem from="1528368620097" duration="3094000" />
+      <workItem from="1528385525683" duration="6029000" />
+      <workItem from="1528469563978" duration="9136000" />
+      <workItem from="1528528070458" duration="2916000" />
+      <workItem from="1528547504906" duration="4776000" />
+      <workItem from="1528633660505" duration="21094000" />
+      <workItem from="1528721328428" duration="4339000" />
+      <workItem from="1528735239067" duration="3471000" />
+      <workItem from="1528816647943" duration="2640000" />
+      <workItem from="1528829642133" duration="4621000" />
+      <workItem from="1528869784479" duration="1711000" />
+      <workItem from="1528871723750" duration="2263000" />
+      <workItem from="1529222357816" duration="12790000" />
+      <workItem from="1529260182426" duration="600000" />
+      <workItem from="1529319059296" duration="12745000" />
+      <workItem from="1529337013484" duration="1955000" />
+      <workItem from="1529391146353" duration="4283000" />
+      <workItem from="1529395672199" duration="741000" />
+      <workItem from="1529396665803" duration="94000" />
+      <workItem from="1529396773053" duration="918000" />
+      <workItem from="1529397818296" duration="953000" />
+      <workItem from="1529398791769" duration="7196000" />
+      <workItem from="1529419740832" duration="10898000" />
+      <workItem from="1529497217843" duration="2019000" />
+      <workItem from="1529499252028" duration="11393000" />
+      <workItem from="1529522836793" duration="5624000" />
+      <workItem from="1529577860673" duration="6316000" />
+      <workItem from="1529586210302" duration="2487000" />
+      <workItem from="1529590075275" duration="798000" />
+      <workItem from="1529601553493" duration="195000" />
+      <workItem from="1529601765444" duration="499000" />
+      <workItem from="1529602451945" duration="10489000" />
+      <workItem from="1529614173539" duration="448000" />
+      <workItem from="1529665480077" duration="871000" />
+      <workItem from="1529685344858" duration="1311000" />
+      <workItem from="1529759504213" duration="1126000" />
+      <workItem from="1529847575439" duration="1143000" />
+      <workItem from="1529866800728" duration="1135000" />
+      <workItem from="1529925878031" duration="4726000" />
+      <workItem from="1529930827738" duration="6032000" />
+      <workItem from="1529941925407" duration="1289000" />
+      <workItem from="1529996055748" duration="1481000" />
+      <workItem from="1529998272866" duration="664000" />
+      <workItem from="1529999477269" duration="2131000" />
+      <workItem from="1530024175332" duration="6576000" />
+      <workItem from="1530032430196" duration="2042000" />
+      <workItem from="1530034496619" duration="401000" />
+      <workItem from="1530034911490" duration="280000" />
+      <workItem from="1530035203925" duration="163000" />
+      <workItem from="1530035379662" duration="439000" />
+      <workItem from="1530041481341" duration="1462000" />
+      <workItem from="1530100969946" duration="877000" />
+      <workItem from="1530112832021" duration="2719000" />
+      <workItem from="1530119376359" duration="3592000" />
+      <workItem from="1530126823606" duration="6836000" />
+      <workItem from="1530163993371" duration="8925000" />
+      <workItem from="1530182615797" duration="12587000" />
+      <workItem from="1530195289630" duration="222000" />
+      <workItem from="1530195524572" duration="336000" />
+      <workItem from="1530206632623" duration="2256000" />
+      <workItem from="1530262912359" duration="7791000" />
+      <workItem from="1530288737606" duration="3039000" />
+      <workItem from="1530426943724" duration="4132000" />
+      <workItem from="1530528168729" duration="12920000" />
+      <workItem from="1530543858779" duration="5706000" />
+      <workItem from="1530599837627" duration="6125000" />
+      <workItem from="1530635259625" duration="3084000" />
+      <workItem from="1530705658892" duration="3729000" />
+      <workItem from="1530770134204" duration="8075000" />
+      <workItem from="1530788457003" duration="11658000" />
+      <workItem from="1530803738790" duration="4864000" />
+      <workItem from="1530854199680" duration="4189000" />
+      <workItem from="1530888957699" duration="9270000" />
+      <workItem from="1530943635254" duration="5939000" />
+      <workItem from="1531028612718" duration="13177000" />
+      <workItem from="1531070534429" duration="3739000" />
+      <workItem from="1531075024081" duration="1726000" />
+      <workItem from="1531133777187" duration="12264000" />
+      <workItem from="1531152090198" duration="714000" />
+      <workItem from="1531153078879" duration="5482000" />
+      <workItem from="1531159498251" duration="11410000" />
+      <workItem from="1531203208055" duration="10000" />
+      <workItem from="1531235272547" duration="9624000" />
+      <workItem from="1531291573366" duration="138000" />
+      <workItem from="1531374251212" duration="6796000" />
+      <workItem from="1531392912558" duration="12119000" />
+      <workItem from="1531465593969" duration="21777000" />
+      <workItem from="1531636489715" duration="703000" />
+      <workItem from="1531679629066" duration="778000" />
+      <workItem from="1531743558282" duration="151000" />
+      <workItem from="1531844254015" duration="2087000" />
+      <workItem from="1531924724430" duration="931000" />
+      <workItem from="1531937594074" duration="1547000" />
+      <workItem from="1531996598446" duration="9411000" />
+      <workItem from="1532101383344" duration="3122000" />
+      <workItem from="1532114521937" duration="1366000" />
+      <workItem from="1532284708122" duration="856000" />
+      <workItem from="1532345919972" duration="8797000" />
+      <workItem from="1532364193250" duration="5870000" />
+      <workItem from="1532415059625" duration="721000" />
+      <workItem from="1532445825834" duration="2332000" />
+      <workItem from="1532495124420" duration="5976000" />
+      <workItem from="1532515929912" duration="12531000" />
+      <workItem from="1532885446821" duration="3609000" />
+      <workItem from="1532926264058" duration="1797000" />
+      <workItem from="1532947832474" duration="7655000" />
+      <workItem from="1532956671085" duration="3997000" />
+      <workItem from="1532964281092" duration="3756000" />
+      <workItem from="1533020766844" duration="7992000" />
+      <workItem from="1533050055016" duration="4962000" />
+      <workItem from="1533065237711" duration="2205000" />
+      <workItem from="1533067845702" duration="286000" />
+      <workItem from="1533103096482" duration="7761000" />
+      <workItem from="1533129730328" duration="1265000" />
+      <workItem from="1533211549924" duration="7671000" />
+      <workItem from="1533226003488" duration="3208000" />
+      <workItem from="1533233596020" duration="974000" />
+      <workItem from="1533235307047" duration="2136000" />
+      <workItem from="1533293073546" duration="598000" />
+      <workItem from="1533307475232" duration="8759000" />
+      <workItem from="1533322665140" duration="5739000" />
+      <workItem from="1533363054243" duration="2924000" />
+      <workItem from="1533451190761" duration="1883000" />
+      <workItem from="1533534119055" duration="15786000" />
+      <workItem from="1533711475151" duration="21000" />
+      <workItem from="1533711520434" duration="21000" />
+      <workItem from="1533753032506" duration="4359000" />
+      <workItem from="1533812684321" duration="10583000" />
+      <workItem from="1533830705113" duration="12472000" />
+      <workItem from="1533885101804" duration="20319000" />
+      <workItem from="1533909183153" duration="672000" />
+      <workItem from="1533919141808" duration="831000" />
+      <workItem from="1533976209413" duration="1782000" />
+      <workItem from="1533978050411" duration="28000" />
+      <workItem from="1533979572832" duration="121000" />
+      <workItem from="1533994597288" duration="1087000" />
+      <workItem from="1534087385755" duration="69000" />
+      <workItem from="1534087544626" duration="45000" />
+      <workItem from="1535530350922" duration="5268000" />
+      <workItem from="1535536017030" duration="15560000" />
+      <workItem from="1535705434984" duration="15391000" />
+      <workItem from="1535791799342" duration="436000" />
+      <workItem from="1535799447434" duration="564000" />
+      <workItem from="1536073138691" duration="10143000" />
+      <workItem from="1536318930163" duration="1411000" />
+      <workItem from="1536403003996" duration="11461000" />
+      <workItem from="1537082700161" duration="281000" />
+      <workItem from="1537442972279" duration="290000" />
+      <workItem from="1537450609043" duration="38000" />
+      <workItem from="1537450717674" duration="600000" />
+      <workItem from="1537455399737" duration="98000" />
+      <workItem from="1537874004050" duration="429000" />
+      <workItem from="1537882930403" duration="752000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Tests - 2018.06.28 at 17h 21m 20s.xml">
+      <configuration name="Tests" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="Tests - 2018.06.28 at 17h 21m 45s.xml">
+      <configuration name="Tests" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="UnitTests - 2018.06.26 at 22h 44m 38s.xml">
+      <configuration name="UnitTests" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="UnitTests - 2018.06.26 at 22h 46m 07s.xml">
+      <configuration name="UnitTests" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="UnitTests - 2018.06.26 at 22h 46m 18s.xml">
+      <configuration name="UnitTests" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="UnitTests - 2018.06.26 at 22h 49m 28s.xml">
+      <configuration name="UnitTests" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="UnitTests - 2018.06.27 at 21h 53m 40s.xml">
+      <configuration name="UnitTests" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="UnitTests - 2018.06.28 at 17h 11m 39s.xml">
+      <configuration name="UnitTests" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="fak2 - 2018.07.13 at 16h 08m 59s.xml">
+      <configuration name="fak2" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="sum(arr) - 2018.06.28 at 17h 11m 24s.xml">
+      <configuration name="sum(arr)" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="894166000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17447917" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32928178" sideWeight="0.21822916" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32928178" sideWeight="0.7817708" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32928178" sideWeight="0.47916666" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.49791667" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="TypeScript" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32928178" sideWeight="0.49791667" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/JS Advanced/Exam Preps/04. List Builder.html</url>
+          <line>12</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="18" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/JS Fundamentals/Arrays and Matrices/2. Print every N-th Element from an Array.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="12" column="6" lean-forward="false" selection-start-line="12" selection-start-column="6" selection-end-line="12" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JS Fundamentals/Arrays and Matrices/3. Add and Remove Elements.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="567">
+          <caret line="27" column="13" lean-forward="false" selection-start-line="27" selection-start-column="13" selection-end-line="27" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JS Fundamentals/Arrays and Matrices/4. Rotate Array.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="22" column="6" lean-forward="false" selection-start-line="22" selection-start-column="6" selection-end-line="22" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JS Fundamentals/Arrays and Matrices/5. Extract an Non-decreasing Subsequence from an Array.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="19" column="9" lean-forward="false" selection-start-line="19" selection-start-column="9" selection-end-line="19" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JS Fundamentals/Arrays and Matrices/6. Sort Array.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JS Fundamentals/Arrays and Matrices/7. Magic Matrices.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="798">
+          <caret line="38" column="0" lean-forward="false" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JS Fundamentals/Arrays and Matrices/8. Spiral Matrix.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="609">
+          <caret line="29" column="18" lean-forward="false" selection-start-line="29" selection-start-column="18" selection-end-line="29" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JS Fundamentals/Arrays and Matrices/9. Diagonal Attack.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1008">
+          <caret line="48" column="40" lean-forward="false" selection-start-line="48" selection-start-column="40" selection-end-line="48" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JS Fundamentals/Arrays and Matrices/10. Orbit.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="20" column="19" lean-forward="false" selection-start-line="20" selection-start-column="19" selection-end-line="20" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JS Fundamentals/Exam Preps/02. Air Pollution.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JS Fundamentals/JS Fundamentals Exam - 10 June 2018/02. Travel Investigation.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JS Fundamentals/Exam Preps/01. Spice Must Flow.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JS Fundamentals/Exam Preps/01. The Hungry Programmer.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="483">
+          <caret line="23" column="38" lean-forward="true" selection-start-line="23" selection-start-column="38" selection-end-line="23" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JS Fundamentals/Exam Preps/02. Jan's Notation.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JS Fundamentals/Exam Preps/02. Build a Wall.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JS Fundamentals/Exam Preps/02. F1 Race 100-100.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="486">
+          <caret line="24" column="9" lean-forward="true" selection-start-line="24" selection-start-column="9" selection-end-line="24" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JS Fundamentals/Exam Preps/03. Spy Master 71-100.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="798">
+          <caret line="41" column="25" lean-forward="true" selection-start-line="41" selection-start-column="25" selection-end-line="41" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JS Fundamentals/Exam Preps/04. Cloud Manager.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="13" column="41" lean-forward="true" selection-start-line="13" selection-start-column="41" selection-end-line="13" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JS Fundamentals/Exam Preps/03. Query Mess 88-100.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JS Fundamentals/Exam Preps/04. Radical Marketing 90-100.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JS Fundamentals/JavaScript Objects and Assoc Arrays - Lab/06. Count Words with Maps.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="13" column="19" lean-forward="false" selection-start-line="13" selection-start-column="19" selection-end-line="13" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JS Fundamentals/JavaScript Objects and Assoc Arrays - Lab/07. Populations in Towns.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JS Fundamentals/JavaScript Objects and Assoc Arrays - Lab/08. City Markets.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="588">
+          <caret line="28" column="1" lean-forward="true" selection-start-line="28" selection-start-column="1" selection-end-line="28" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JS Fundamentals/JavaScript Objects and Assoc Arrays - Lab/09. Lowest Prices in Cities.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JS Fundamentals/JavaScript Objects and Assoc Arrays - Lab/10. Extract Unique Words.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JS Fundamentals/JS Fundamentals Exam - 10 June 2018/04. Travel Time.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="25" column="5" lean-forward="true" selection-start-line="25" selection-start-column="1" selection-end-line="25" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JS Fundamentals/Exam Preps/03. Survey Parses 66-100.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="16" column="65" lean-forward="true" selection-start-line="16" selection-start-column="65" selection-end-line="16" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JS Fundamentals/Exam Preps/03. Ancient VS Memory 90-100.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JS Fundamentals/Objects, Associative Arrays, Maps, Sets - Exercises/06. System Components.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="672">
+          <caret line="32" column="5" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="32" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JS Fundamentals/Exam Preps/03. DNAex 100-100.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="945">
+          <caret line="45" column="0" lean-forward="false" selection-start-line="45" selection-start-column="0" selection-end-line="45" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JS Fundamentals/Exam Preps/04. Arena Tier.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="714">
+          <caret line="34" column="0" lean-forward="false" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JS Fundamentals/Objects, Associative Arrays, Maps, Sets - Exercises/05. Auto-Engineering Company.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="16" column="12" lean-forward="false" selection-start-line="16" selection-start-column="12" selection-end-line="16" selection-end-column="91" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JS Fundamentals/Exam Preps/aaa.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JS Fundamentals/JS Fundamentals Exam - 10 June 2018/01. Travel Plans.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="483">
+          <caret line="23" column="0" lean-forward="false" selection-start-line="23" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JS Fundamentals/Exam Preps/01. Kompot.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="12" column="37" lean-forward="false" selection-start-line="12" selection-start-column="37" selection-end-line="12" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JS Fundamentals/Exam Preps/01. Bitcoin Mining.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="630">
+          <caret line="30" column="31" lean-forward="true" selection-start-line="30" selection-start-column="31" selection-end-line="30" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JS Fundamentals/Exam Preps/01. Build a Table.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JS Fundamentals/Exam Preps/01. Daggers and Swords.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JS Fundamentals/Exam Preps/01. Gladiator Expenses.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/Telegram Desktop/02. ATM Machine.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JS Advanced/Document Object Model - Lab/01. Sum Numbers.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="17" column="5" lean-forward="false" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JS Advanced/Document Object Model - Lab/02. Show More.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JS Advanced/Document Object Model - Lab/03. Collect List Items.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JS Advanced/Document Object Model - Lab/04. Colorize Table.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JS Advanced/Document Object Model - Lab/05. Countdown.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="7" column="36" lean-forward="true" selection-start-line="7" selection-start-column="36" selection-end-line="7" selection-end-column="36" />
+          <folding>
+            <element signature="n#style#0;n#input#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JS Advanced/Document Object Model - Lab/06. Extract Paranthesis.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JS Advanced/Document Object Model - Lab/07. Sum Table.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JS Fundamentals/Exam Preps/02. Gladiator Inventory.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="7" column="18" lean-forward="true" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JS Fundamentals/Exam Preps/04. F1 Championship 100-100.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="385">
+          <caret line="26" column="35" lean-forward="false" selection-start-line="26" selection-start-column="35" selection-end-line="26" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JS Apps/EXAM/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="413">
+          <caret line="22" column="24" lean-forward="true" selection-start-line="22" selection-start-column="24" selection-end-line="22" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JS Apps/EXAM/script/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-10217">
+          <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

@@ -1,0 +1,238 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Meme Lounge</title>
+    <link rel="stylesheet" href="style/navigation.css">
+    <link rel="stylesheet" href="style/site.css">
+    <link rel="stylesheet" href="style/welcome.css">
+    <link rel="stylesheet" href="style/notifications.css">
+    <link rel="stylesheet" href="style/login-register.css">
+    <link rel="stylesheet" href="style/meme-feed.css">
+    <link rel="stylesheet" href="style/my-memes.css">
+    <link rel="stylesheet" href="style/meme-details.css">
+    <link rel="stylesheet" href="style/user-profile.css">
+    <link rel="stylesheet" href="style/footer.css">
+    <link rel="stylesheet" href="style/user-meme-listings.css">
+    <script src="./jquery-3.1.1.min.js"></script>
+    <script src="../../node_modules/jquery/dist/jquery.min.js"></script>
+    <script src="script/app.js"></script>
+</head>
+
+<body>
+    <div id="container">
+        <nav>
+            <a class="active" href="#" id="home">Home</a>
+            <a href="#" id="createHome">Create Meme</a>
+            <div id="profile">
+                <a id="welcm">Welcome User</a>
+                <a href="#" id="myProfile">My Profile</a>
+                <a href="#" id="logout">logout</a>
+            </div>
+        </nav>
+
+        <div id="main">
+            <div id="welcome-container">
+                <h1>Welcome To Meme Lounge</h1>
+                <img src="https://i.kym-cdn.com/photos/images/original/001/218/908/247.gif" alt="carIntro">
+                <h2>Login to see our memes right away!</h2>
+                <div id="button-div">
+                    <a href="#" class="button" id="loginButton">Login</a>
+                    <a href="#" class="button" id="registerButton">Register</a>
+                </div>
+            </div>
+        </div>
+
+        <div id="login">
+            <form action="#" method="post" id="formLogin">
+                <div class="container">
+                    <h1>Login</h1>
+                    <p id="details">Please enter your credentials.</p>
+                    <hr id="login-register-hr">
+
+                    <p id="username">Username</p>
+                    <input placeholder="Enter Username" name="username" type="text">
+
+                    <p>Password</p>
+                    <input type="password" placeholder="Enter Password" name="password">
+                    <button type="submit" class="registerbtn" id="loginUser">Login</button>
+                </div>
+
+                <div class="container signin">
+                    <p>Dont have an account?
+                        <a href="#" id="signUp">Sign up</a>.</p>
+                </div>
+            </form>
+        </div>
+
+        <div id="register">
+            <form action="#" method="post" id="registerForm">
+                <div class="container">
+                    <h1>Register</h1>
+                    <p id="details">Please fill in this form to create an account.</p>
+                    <hr id="login-register-hr">
+
+                    <p id="username">Username</p>
+                    <input type="text" placeholder="Enter Username" name="username">
+
+                    <p>Password</p>
+                    <input type="password" placeholder="Enter Password" name="password">
+
+                    <p>Repeat Password</p>
+                    <input type="password" placeholder="Repeat Password" name="repeatPass">
+
+                    <p>Email</p>
+                    <input type="email" placeholder="Enter Email" name="email">
+
+                    <p>Avatar Url</p>
+                    <input type="text" placeholder="Enter AvatarUrl" name="avatarUrl">
+                    <hr>
+
+                    <button type="submit" class="registerbtn" id="registerUser">Register</button>
+                </div>
+                <div class="container signin">
+                    <p>Already have an account?
+                        <a href="#" id="signIn">Sign in</a>.</p>
+                </div>
+            </form>
+        </div>
+
+
+        <div id="meme-feed">
+            <h1>Meme Feed</h1>
+            <div id="memes">
+                <div class="meme">
+                    <a href="#" class="meme-title">Разбираемо...</a>
+                    <br>
+                    <a href="#"><img class="meme-image" src="https://scontent.fsof3-1.fna.fbcdn.net/v/t1.0-9/31924539_2110321352572189_5652160133854134272_n.jpg?_nc_cat=0&oh=dc73aad9af411f76454dd70ea1ab2775&oe=5C2FB35A"></a>
+                    <div class="info">
+
+                        <div id="data-buttons">
+                            <a href="#" class="custom-button">Check Out</a>
+                            <a href="#" class="custom-button">Edit</a>
+                            <a href="#" class="custom-button">Delete</a>
+                            <a href="#" class="creator">Creator: User</a>
+                        </div>
+                    </div>
+                    <hr>
+                </div>
+
+                <p class="no-memes">No memes in database.</p>
+
+            </div>
+        </div>
+
+        <div id="create-meme">
+            <form id="createMemeForm">
+                <div class="container">
+                    <h1>Create Meme</h1>
+                    <p>Please fill in this form to create an meme.</p>
+
+                    <p>Title</p>
+                    <input type="text" placeholder="Enter Title" name="title">
+
+                    <p>Description</p>
+                    <input type="text" placeholder="Enter Description" name="description">
+
+                    <p>Meme Image</p>
+                    <input type="text" placeholder="Enter meme ImageUrl" name="imageUrl">
+
+                    <button type="submit" class="registerbtn" id="createBtn">Create Meme</button>
+                </div>
+            </form>
+        </div>
+
+        <div id="edit-meme">
+            <form id="editMeme">
+                <h1>Edit Meme</h1>
+                <div class="container">
+                    <p>Please fill in this form to edit an meme.</p>
+                    <input type="hidden" name="memeId" />
+                    <p>Title</p>
+                    <input type="text" placeholder="Enter Title" name="title" value="Title">
+
+                    <p>Description</p>
+                    <input type="text" placeholder="Enter Description" name="description" value="Description">
+
+                    <p>Meme Image</p>
+                    <input type="text" placeholder="Enter Meme ImageUrl" name="imageUrl" value="ImageUrl">
+
+                    <button type="submit" class="registerbtn" id="editMemeBtn">Edit Meme</button>
+                </div>
+            </form>
+        </div>
+
+        <div class="meme-details">
+            <div class="my-meme-details">
+                <a href="#" id="meme-title">Разбираемо...</a>
+                <img src="https://scontent.fsof3-1.fna.fbcdn.net/v/t1.0-9/31924539_2110321352572189_5652160133854134272_n.jpg?_nc_cat=0&oh=dc73aad9af411f76454dd70ea1ab2775&oe=5C2FB35A">
+                <div class="meme-props">
+                    <h2>Description</h2>
+                    <p class="meme-description">
+                        И аз така...
+                    </p>
+                </div>
+
+
+                <div class="meme-details-buttons">
+                    <a class="meme-details-button" href="#">Created by User</a>
+                    <a href="#" class="meme-details-button">Edit</a>
+                    <a href="#" class="meme-details-button">Delete</a>
+                </div>
+
+
+            </div>
+        </div>
+
+        <div class="user-profile">
+
+            <img id="user-avatar-url" src="https://i.pinimg.com/originals/7c/c7/a6/7cc7a630624d20f7797cb4c8e93c09c1.png" alt="user-profile">
+            <h1>user</h1>
+            <h2>user@abv.bg</h2>
+
+            <a id="deleteUserButton" href="#">DELETE USER!</a>
+
+            <p id="user-listings-title">User Memes
+            </p>
+            <div class="user-meme-listings">
+                <div class="user-meme">
+                    <a href="#" class="user-meme-title">Разбираемо...</a>
+                    <a href=""> <img class="userProfileImage" src="https://scontent.fsof3-1.fna.fbcdn.net/v/t1.0-9/31924539_2110321352572189_5652160133854134272_n.jpg?_nc_cat=0&oh=dc73aad9af411f76454dd70ea1ab2775&oe=5C2FB35A"></a>
+
+                    <div class="user-memes-buttons">
+                     
+                        <a href="#" class="user-meme-btn">Edit</a>
+                        <a href="#" class="user-meme-btn">Delete</a>
+                     
+                    </div>
+                </div>
+                <p class="no-memes">No memes in database.</p>
+
+            </div>
+        </div>
+
+        <div class="footer">
+            <p>Created by MarikMayhem</p>
+        </div>
+    </div>
+
+
+    <div id="notifications">
+        <div id="loadingBox" class="notification">
+            <span>Loading …</span>
+        </div>
+        <div id="infoBox" class="notification">
+            <span>Info</span>
+        </div>
+        <div id="errorBox" class="notification">
+            <span>Error</span>
+        </div>
+    </div>
+
+</body>
+<script>
+    startApp();
+</script>
+
+</html>

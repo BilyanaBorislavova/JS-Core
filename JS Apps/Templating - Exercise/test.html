@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <script src="../../node_modules/jquery/dist/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/handlebars.js/4.0.10/handlebars.min.js"></script>
+</head>
+<body>
+<script>
+    (async function () {
+        let template = Handlebars.compile('<h1>Hello, {{name}}</h1>');
+        let obj = [{name: 'Pesho'}, {name: 'Stamat'}];
+        for (let n of obj) {
+            let result = template(n);
+            $('body').append(result);
+        }
+    })()
+</script>
+</body>
+</html>

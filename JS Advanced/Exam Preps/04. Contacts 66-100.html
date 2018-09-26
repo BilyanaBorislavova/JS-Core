@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Contacts Builder</title>
+    <style>
+        article { background: #EEE; padding: 1px; width: 250px; margin: 1px; }
+        .title { background: #DDD; padding: 5px; font-weight: bold; }
+        .title button { float: right }
+        .info { margin: 5px; }
+        .info span { display: block; }
+        .online { background: #9E9; }
+    </style>
+    <script src="https://code.jquery.com/jquery-3.1.1.min.js"></script>
+</head>
+<body>
+<div id="main"></div>
+<script>
+    class Contact{
+        constructor(firstName, lastName, phone, email){
+            this.firstName = firstName;
+            this.lastName = lastName;
+            this.phone = phone;
+            this.email = email;
+            this.online = false;
+        }
+
+        render(id) {
+            let append = `<article><div class="title">${this.firstName} ${this.lastName}<button>&#8505;</button></div><div class="info" style="display: none"><span>&phone; ${this.phone}</span><span>&#9993; ${this.email}</span></div></article>`;
+
+            let isOnline = false;
+            $(document).on('click', 'button', function () {
+                if(!isOnline) {
+                $(this).closest('.title').addClass('online');
+                $(this).closest('article').find('.info').css('display', 'block')
+                isOnline = true;
+            } else {
+                $(this).closest('.title').removeClass('online');
+                $(this).closest('article').find('.info').css('display', 'none')
+                isOnline = false;
+            }
+        });
+
+
+
+        $(`#${id}`).append($(append));
+        }
+    }
+
+    let data = {
+        firstName: 'Ivan',
+        lastName: 'Ivanov',
+        phone: '0888 123 456',
+        email: 'i.ivanov@gmail.com'
+    };
+    data.forEach(c => c.render('main'));
+</script>
+</body>
+</html>
+
+
